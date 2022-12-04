@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrinaBallesteros
 - 👀 I’m interested in the world of technology, reading and good lifestyle habits
 - 🌱 I’m currently learning web programming and data science
-- 💞️ I’m looking to collaborate on self-study educational projects
+- 💞️ I’m looking to collaborate on change and innovation management projects that improve the quality of life of our society
 - 📫 How to reach me "ballesterosirina1@gmail.com" 
 
 <!---
