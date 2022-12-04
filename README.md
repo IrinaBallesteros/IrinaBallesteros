@@ -2,7 +2,7 @@
 - 👀 I’m interested in the world of technology, reading and good lifestyle habits
 - 🌱 I’m currently learning web programming and data science
 - 💞️ I’m looking to collaborate on change and innovation management projects that improve the quality of life of our society
-- 📫 How to reach me "ballesterosirina1@gmail.com" 
+- 📫 How to reach me email ballesterosirina1@gmail.com
 
 <!---
 IrinaBallesteros/IrinaBallesteros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
