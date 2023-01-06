@@ -1,3 +1,4 @@
+- ✨'IF THERE'S A PROBLEM, BE THE SOLUTION'✨
 - 👋 Hi, I’m @IrinaBallesteros
 - 👀 I’m interested in the world of technology, reading and good lifestyle habits
 - 🌱 I’m currently learning web programming and data science
