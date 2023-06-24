@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
-<h3 align="center">A passionate Back End developer from Colombia</h3>
+<h3 align="center">A passionate Back End developer from Colombia.</h3>
 
 - 🔭 I’m currently working on [Irina Ballesteros](https://linktr.ee/IrinaBallesteros)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ballesterosirina1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Eff0vWs3cSWm_ivVTva_1cJ1vemk2VCK/view?usp=sharing](https://drive.google.com/file/d/1Eff0vWs3cSWm_ivVTva_1cJ1vemk2VCK/view?usp=sharing)
+- 📄 Know about my experiences [https://goo.by/4rScJ](https://goo.by/4rScJ)
 
 - ⚡ Fun fact **I am passionate about reading, personal growth and healthy lifestyle and I have a hobby of creating content with a purpose to help.**
 
