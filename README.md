@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ballesterosirina1@gmail.com**
 
-- 📄 Know about my experiences [https://goo.by/aYAr7](https://goo.by/aYAr7)
-
 - ⚡ Fun fact **I am passionate about reading, continuing education and training. My life purpose is to promote wellness, personal growth and healthy lifestyles.**
 
 <h3 align="left">Connect with me:</h3>
