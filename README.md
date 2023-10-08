@@ -1,9 +1,11 @@
+<img src="https://media1.giphy.com/media/fc421YtZqhJMcKxJ6s/giphy.gif?cid=ecf05e47hcwrzcphqahacoslkxzl45m430yae4q5s98cgyuf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
 <h3 align="center">A passionate Back End developer from Colombia.</h3>
 
 - 🔭 I’m currently working on [Irina Ballesteros](https://linktr.ee/IrinaBallesteros)
 
-- 🌱 I’m currently learning **AWS, Data Science and Machine Learning**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Back End Developer**
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **ballesterosirina1@gmail.com**
 
-- ⚡ Fun fact **I am passionate about reading, continuing education and training. My life purpose is to promote wellness, personal growth and healthy lifestyles.**
+- ⚡ Fun fact **My ideal life is to enjoy my role in technology, continue challenging myself with learning and provide value for well-being and security with my time in the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
