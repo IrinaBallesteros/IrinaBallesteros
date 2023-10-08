@@ -1,7 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>[Uploading 200w.webp…]()
-
+<h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
 <h3 align="center">A passionate Back End developer from Colombia.</h3>
 
 - 🔭 I’m currently working on [Irina Ballesteros](https://linktr.ee/IrinaBallesteros)
