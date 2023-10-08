@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Back End Developer**
+- 👯 I’m looking to collaborate on **Software Developer**
 
 - 💬 Ask me about **Agile Methodology, Scrum, leadership, Java, Python, Javascript, CSS, HTML,**
 
