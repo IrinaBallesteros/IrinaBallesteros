@@ -1,4 +1,5 @@
-<img src="https://media1.giphy.com/media/fc421YtZqhJMcKxJ6s/giphy.gif?cid=ecf05e47hcwrzcphqahacoslkxzl45m430yae4q5s98cgyuf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+![giphy](https://github.com/IrinaBallesteros/IrinaBallesteros/assets/111597192/233bb9ff-8bea-4dae-88c4-6c713b733b9f)
 
 <h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
 <h3 align="center">A passionate Back End developer from Colombia.</h3>
