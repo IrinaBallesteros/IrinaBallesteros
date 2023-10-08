@@ -1,7 +1,7 @@
 
-![giphy](https://github.com/IrinaBallesteros/IrinaBallesteros/assets/111597192/233bb9ff-8bea-4dae-88c4-6c713b733b9f)
 
-<h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
+<h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>[Uploading 200w.webp…]()
+
 <h3 align="center">A passionate Back End developer from Colombia.</h3>
 
 - 🔭 I’m currently working on [Irina Ballesteros](https://linktr.ee/IrinaBallesteros)
