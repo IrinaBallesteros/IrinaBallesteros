@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/irina-ballesteros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irina-ballesteros" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucp7mnxedvogzo8lpfh6dswq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucp7mnxedvogzo8lpfh6dswq" height="30" width="40" /></a>
-<a href="https://tiktok.com/@personalsig" target="blank"><img align="center" src="https://www.flaticon.es/icono-gratis/tik-tok_3046121" alt="irinaballesteros" height="30" width="40" /></a>
+<a href="https://tiktok.com/@personalsig" target="blank"><img align="center" src="https://drive.google.com/file/d/1_Zdphai3ai2CgXXmiPXLS5CHUqZDPdMH/view?usp=drive_link" alt="irinaballesteros" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
