@@ -25,7 +25,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/irina-ballesteros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irina-ballesteros" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucp7mnxedvogzo8lpfh6dswq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucp7mnxedvogzo8lpfh6dswq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCP7mnxedVogzO8LPfH6dSwQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucp7mnxedvogzo8lpfh6dswq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
