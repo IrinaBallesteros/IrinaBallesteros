@@ -8,7 +8,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Irina Ballesteros](https://linktr.ee/IrinaBallesteros)
 
-- 🌱 I’m currently learning **Cybersecurity with Google**
+- 🌱 I’m currently learning **Cybersecurity with BIOS**
 
 - 👯 I’m looking to collaborate on **Software Developer**
 
