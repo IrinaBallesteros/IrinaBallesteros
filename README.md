@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IrinaBallesteros](https://github.com/IrinaBallesteros)
 
-- 💬 Ask me about **QA Testing, Agile Methodology, Scrum, leadership, Java, Python, Javascript, CSS, HTML,**
+- 💬 Ask me about **Cybersecurity, QA Testing, Agile Methodology, Scrum, leadership, Java, Python, Javascript, CSS, HTML,**
 
 - 📫 How to reach me **ballesterosirina1@gmail.com**
 
