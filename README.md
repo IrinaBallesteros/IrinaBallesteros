@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ballesterosirina1@gmail.com**
 
-- ⚡ Fun fact **My professional ideal consists of enjoying my role in technology, continuing to challenge my learning capacity and giving free rein to my creativity to add value by contributing to the well-being and safety of organizations and their beneficiaries.**
+- ⚡ Fun fact **My goal is to contribute to the well-being, quality and safety of all stakeholders, while continuing to acquire and apply skills for mutual benefit.**
 
 
 
