@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Irina Ballesteros](https://linktr.ee/IrinaBallesteros)
+- 🔭 I’m currently working on [Irina Ballesteros](https://irinaballesteros.github.io/mi_sitio/)
 
 - 🌱 I’m currently learning **Cybersecurity with BIOS**
 
