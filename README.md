@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
-<h2 align="center">A passionate software development from Colombia.</h2>
+<h2 align="center">Digital Transformation Consultant | IT Projects | Applied AI | Organizational Cybersecurity | Business and Technology Training from Colombia.</h2>
 
 
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Irina Ballesteros]([https://irinaballesteros.github.io/Portafolio_de_Servicios/](https://irinaballesteros.github.io/Portafolio_de_Servicios/))
+- 🔭 I’m currently working on [Irina Ballesteros]([https://irinaballesteros.github.io/Portafolio_de_Servicios/](https://irinaballesteros.github.io/Portafolio_de_Servicios/)
 
 - 🌱 I’m currently learning **Ethical Hacker with CISCO** and **Machine Learning, Data Science, and Visualization with Python with IBM** 
 
