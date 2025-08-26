@@ -6,11 +6,11 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Irina Ballesteros](https://irinaballesteros.github.io/mi_sitio/)
+- 🔭 I’m currently working on [Irina Ballesteros](https://irinaballesteros.github.io/Portafolio_de_Servicios/)
 
-- 🌱 I’m currently learning **Cybersecurity with BIOS**
+- 🌱 I’m currently learning **Ethical Hacker with CISCO** and **Machine Learning, Data Science, and Visualization with Python with IBM** 
 
-- 👯 I’m looking to collaborate on **Software Developer**
+- 👯 I’m looking to collaborate on **Software engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IrinaBallesteros](https://github.com/IrinaBallesteros)
 
