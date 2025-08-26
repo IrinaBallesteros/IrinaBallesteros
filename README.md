@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Irina Ballesteros** (https://irinaballesteros.github.io/Portafolio_de_Servicios/)
+- 🔭 I’m currently working on **Irina Ballesteros**  https://irinaballesteros.github.io/Portafolio_de_Servicios/
 
 - 🌱 I’m currently learning **Ethical Hacker with CISCO** and **Machine Learning, Data Science, and Visualization with Python with IBM** 
 
