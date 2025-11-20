@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
 <h2 align="center">Consulting in Digital Transformation, Applied AI, and Process Auditing.
-I provide clear, practical, and tailored solutions to companies looking to grow with technology.
-📩 Available for projects, consulting, and training..</h2>
+I provide clear, practical, and tailored solutions to companies looking to grow with technology.</h2>
 
 
 
@@ -18,9 +17,9 @@ I provide clear, practical, and tailored solutions to companies looking to grow 
 
 - 💬 Ask me about **Cybersecurity, QA Testing, Agile Methodology, Scrum, leadership, Java, Python, Javascript, CSS, HTML,**
 
-- 📫 How to reach me **ballesterosirina1@gmail.com**
+- 📩 Available for projects, consulting, and training **ballesterosirina1@gmail.com**
 
-- ⚡ Fun fact **My goal is to contribute to the well-being, quality and safety of all stakeholders, while continuing to acquire and apply skills for mutual benefit.**
+
 
 
 
