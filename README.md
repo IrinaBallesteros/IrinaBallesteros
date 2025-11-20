@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
-<h2 align="center">Digital Transformation Consultant | IT Projects | Applied AI | Organizational Cybersecurity | Business and Technology Training from Colombia.</h2>
+<h2 align="center">Consulting in Digital Transformation, Applied AI, and Process Auditing.
+I provide clear, practical, and tailored solutions to companies looking to grow with technology.
+📩 Available for projects, consulting, and training..</h2>
 
 
 
