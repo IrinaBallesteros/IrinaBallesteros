@@ -8,7 +8,7 @@
 # 💫 Sobre Mi:
 - 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  https://irinaballesteros.github.io/Portafolio_de_Servicios/
 
-- 🌱 Actualmente estoy aprendiendo **Hacker ético con CISCO** y **Aprendizaje automático, ciencia de datos y visualización con Python con IBM**.
+- 🌱 Estoy aprendiendo **Hacker ético con CISCO** y **Aprendizaje automático, ciencia de datos y visualización con Python con IBM**.
 
 - 👯 Busco colaborar como **Consultora en Transformación Digital | IA Aplicada y Ciberseguridad | Acompaño empresas a mejorar procesos, adoptar tecnología y elevar su madurez digital con enfoque humano y sostenible**.
 
