@@ -1,23 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Irina Ballesteros</h1>
-<h2 align="center">Consulting in Digital Transformation, Applied AI, and Process Auditing.
-I provide clear, practical, and tailored solutions to companies looking to grow with technology.</h2>
+<h1 align="center">Hi 👋, Soy Irina ballesteros O</h1>
+<h2 align="center">Administradora de Empresas + Ingeniera de Software.</h2>
 
 
 
 
-# 💫 About Me:
-- 🔭 I’m currently working on **Irina Ballesteros**  https://irinaballesteros.github.io/Portafolio_de_Servicios/
+# 💫 Sobre Mi:
+- 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  https://irinaballesteros.github.io/Portafolio_de_Servicios/
 
-- 🌱 I’m currently learning **Ethical Hacker with CISCO** and **Machine Learning, Data Science, and Visualization with Python with IBM** 
+- 🌱 Actualmente estoy aprendiendo **Hacker ético con CISCO** y **Aprendizaje automático, ciencia de datos y visualización con Python con IBM**.
 
-- 👯 I’m looking to collaborate on **Software engineer**
+- 👯 Busco colaborar como **Consultora en Transformación Digital | IA Aplicada y Ciberseguridad | Acompaño empresas a mejorar procesos, adoptar tecnología y elevar su madurez digital con enfoque humano y sostenible**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/IrinaBallesteros](https://github.com/IrinaBallesteros)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/IrinaBallesteros](https://github.com/IrinaBallesteros)
 
-- 💬 Ask me about **Cybersecurity, QA Testing, Agile Methodology, Scrum, leadership, Java, Python, Javascript, CSS, HTML,**
-
-- 📩 Available for projects, consulting, and training **ballesterosirina1@gmail.com**
+- 📩 Disponible para proyectos, consultoría y formación. **ballesterosirina1@gmail.com**
 
 
 
