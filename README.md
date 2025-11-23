@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, Soy Irina ballesteros O</h1>
+<h1 align="center">Hola 👋, Soy Irina Ballesteros O</h1>
 <h2 align="center">Administradora de Empresas + Ingeniera de Software.</h2>
 
 
