@@ -6,15 +6,15 @@
 
 
 # 💫 Sobre Mi:
-- 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  https://irinaballesteros.github.io/Portafolio_de_Servicios/
+- 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  [(https://irinaballesteros.github.io/irinaballesterosospino/)]
 
-- 🌱 Estoy aprendiendo **Hacker ético con CISCO** y **Aprendizaje automático, ciencia de datos y visualización con Python con IBM**.
+- 🌱 Estoy aprendiendo **Aprendizaje automático, ciencia de datos y visualización con Python con IBM**.
 
-- 👯 Busco colaborar como **Consultora en Transformación Digital | IA Aplicada y Ciberseguridad | Acompaño empresas a mejorar procesos, adoptar tecnología y elevar su madurez digital con enfoque humano y sostenible**.
+- 👯 Busco colaborar como **Data & Cloud Solutions Architect**.
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/IrinaBallesteros](https://github.com/IrinaBallesteros)
 
-- 📩 Disponible para proyectos, consultoría y formación. **ballesterosirina1@gmail.com**
+- 📩 Disponible para proyectos, consultoría y formación. **irinaballesterosospino@outlook.com**
 
 
 
