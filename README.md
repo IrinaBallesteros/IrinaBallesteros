@@ -6,7 +6,7 @@
 
 
 # 💫 Sobre Mi:
-- 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  [(https://irinaballesteros.github.io/irinaballesterosospino/)]
+- 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  (https://irinaballesteros.github.io/irinaballesterosospino/)
 
 - 🌱 Estoy aprendiendo **Aprendizaje automático, ciencia de datos y visualización con Python con IBM**.
 
