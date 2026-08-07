@@ -10,9 +10,9 @@
 
 - 🌱 Estoy aprendiendo **Auditoria en Tecnologia Informatica**.
 
-- 👯 Busco colaborar como **Gobernanza Empresarial y Tecnológica**.
+- 👯 Busco colaborar en **Gobernanza Empresarial y Tecnológica**.
 
-- 📩 Disponible para proyectos, consultoría y formación.**contacto@irinaballesteros.com**
+- 📩 Disponible para proyectos, consultoría y formación. **contacto@irinaballesteros.com**
 
 
 
