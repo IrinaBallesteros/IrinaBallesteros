@@ -8,7 +8,7 @@
 # 💫 Sobre Mi:
 - 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  https://irinaballesteros.com/
 
-- 🌱 Estoy aprendiendo **Auditoría en Tecnologia Informatica**.
+- 🌱 Estoy aprendiendo **Auditoría en Tecnología Informática**.
 
 - 👯 Busco colaborar en **Gobernanza Empresarial y Tecnológica**.
 
