@@ -6,15 +6,13 @@
 
 
 # 💫 Sobre Mi:
-- 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  https://irinaballesteros.github.io/irinaballesterosospino/
+- 🔭 Actualmente estoy trabajando en **Irina Ballesteros O**  https://irinaballesteros.com/
 
-- 🌱 Estoy aprendiendo **Aprendizaje automático, ciencia de datos y visualización con Python con IBM**.
+- 🌱 Estoy aprendiendo **Auditoria en Tecnologia Informatica**.
 
-- 👯 Busco colaborar como **Data & Cloud Solutions Architect**.
+- 👯 Busco colaborar como **Gobernanza Empresarial y Tecnológica**.
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/IrinaBallesteros](https://github.com/IrinaBallesteros)
-
-- 📩 Disponible para proyectos, consultoría y formación. **irinaballesterosospino@outlook.com**
+- 📩 Disponible para proyectos, consultoría y formación.**contacto@irinaballesteros.com**
 
 
 
